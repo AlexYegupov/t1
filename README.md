@@ -1,3 +1,9 @@
+# Frontend application template
+
+next.js + antd c
+
+# (Create next app readme):
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
