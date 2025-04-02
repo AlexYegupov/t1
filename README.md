@@ -2,6 +2,18 @@
 
 next.js + antd c
 
+
+
+# Info for developers
+
+## --turbopack dev usage
+
+Now running "next dev" WITHOUT "--turbopack" to avoid console warning "Warning: [antd: compatible] antd v5 support React is 16 ~ 18. see https://u.ant.design/v5-for-19 for compatible" until antd compability issue will be fixed https://github.com/ant-design/v5-patch-for-react-19/issues/27
+
+See also:
+  https://ant.design/docs/react/v5-for-19
+
+
 # (Create next app readme):
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
