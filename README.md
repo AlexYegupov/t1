@@ -1,8 +1,6 @@
 # Frontend application template
 
-next.js + antd c
-
-
+next.js + antd 
 
 # Info for developers
 
